@@ -1,17 +1,3 @@
-// class calculator{
-
-// }
-// const numberButtons = document.querySelectorAll('[dataNumber]')
-// const operationButtons = document.querySelectorAll('[dataoperation]')
-
-// const equalsButton = document.querySelector('[dataEquals]')
-// const deleteButton = document.querySelector('[dataDelete]')
-// const allClearButton = document.querySelector('[dataAllClear]')
-// const previousOperandButton = document.querySelector('[dataPrevious]')
-// const currentOperandButton = document.querySelector('[dataCurrent]')
-
-// Calculator logic without Classes
-
 let input = document.querySelector('[dataCurrent]');
 let buttons = document.querySelectorAll('button');
 
